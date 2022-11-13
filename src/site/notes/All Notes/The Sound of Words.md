@@ -12,11 +12,7 @@ if the music is discordant or jangly, the reader will walk away
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 Iamb: An unstressed syllable followed by a stressed syllable
@@ -27,11 +23,7 @@ iamb, metrical foot consisting of one short syllable (as in classical verse) or 
  
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ‘Penta’ means five, so pentameter simply means five meters. A line of poetry written in iambic pentameter has five feet = five sets of stressed syllables and unstressed syllables.
