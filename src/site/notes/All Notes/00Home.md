@@ -3,13 +3,25 @@
 ---
 
 
-# Book Notes
-[[All Notes/All Book Notes|All Book Notes]]
+# Digital Garden
 
-
-# Subjects / Topics
+# Notes / Summaries
 [[All Notes/How to write and Op Ed|How to write and Op Ed]]
 [[All Notes/Fundamentals of Public Policy|Fundamentals of Public Policy]]
+[[All Notes/Macroeconomics|Macroeconomics]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+[[All Notes/In Service of the Republic|In Service of the Republic]]
+
+
+</div></div>
+
+
 
 
 
