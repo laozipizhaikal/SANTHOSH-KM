@@ -78,11 +78,7 @@ Moral Hazard, Rent Seekers, Over regulation etc.
 # 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 
