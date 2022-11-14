@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/in-service-of-the-republic/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/all-notes/in-service-of-the-republic/"}
 ---
 
 # What objectives of public policy are appropriate?"
@@ -18,11 +18,11 @@ at the heart of the state, there is violence. The state acquires a monopoly upon
 
 *"The important thing for government is not to do things which individuals are doing already, and to do them a little better or a little worse; but to do those things which at present are not done at all.* #JohnMaynardKeynes" 
 
-"Where the free market fails to deliver efficient economic outcomes, this is termed **[[All Notes/market failure|market failure]]**'. Market failures come in four kinds:
-- [[All Notes/Externalities|Externalities]],
-- [[All Notes/Asymmetric information|Asymmetric information]],
-- [[All Notes/Market power|Market power]] and
-- [[All Notes/Public goods|Public goods]]
+"Where the free market fails to deliver efficient economic outcomes, this is termed **[[All Notes/market failure\|market failure]]**'. Market failures come in four kinds:
+- [[All Notes/Externalities\|Externalities]],
+- [[All Notes/Asymmetric information\|Asymmetric information]],
+- [[All Notes/Market power\|Market power]] and
+- [[All Notes/Public goods\|Public goods]]
 
 
 "Externalities are the situations where persons impact upon each other in ways that are *not intermediated through voluntary agreements* between these persons, where people impact upon each other in *ways that were not negotiated*." 
@@ -35,7 +35,7 @@ at the heart of the state, there is violence. The state acquires a monopoly upon
 
 “public goods such as clean air are underproduced by the free market.”
 
-“public goods are things that are ‘[[non-rival|non-rival]]’ and ‘[[non-excludable|non-excludable]]’.”
+“public goods are things that are ‘[[non-rival\|non-rival]]’ and ‘[[non-excludable\|non-excludable]]’.”
 
  Excludability is essential for firms to obtain a revenue stream”
 
@@ -47,7 +47,7 @@ All activities of the state are grounded in coercion: either
 - directly (The state can demand certain behaviour, and threaten violence against private persons who refuse to comply.) or 
 - indirectly (The state can demand tax payments from the populace, backed by threats of violence against people who do not comply).”
 
-Private persons overproduce things that impose negative [[All Notes/Externalities|Externalities]] as pollution and underproduce things that impose positive externalities; 
+Private persons overproduce things that impose negative [[All Notes/Externalities\|Externalities]] as pollution and underproduce things that impose positive externalities; 
 	modifications to tax rates can help improve the outcome. 
 
 The state can choose to spend tax revenues in two ways. 
@@ -101,7 +101,7 @@ In an ideal world, the state is a benevolent actor, which establishes the right 
 	Public policy is a research process, and we in India lack the foundations of knowledge for operating this research process.
 3) ***The resource constraint***
 	As a thumb rule, it is useful to reckon that the cost to society for every rupee of public spending is around Rs 3.
-	In the best advanced economies, the numerical value for the [[Marginal Cost of Public Funds|Marginal Cost of Public Funds]] is from 1.5 to 2.”
+	In the best advanced economies, the numerical value for the [[Marginal Cost of Public Funds\|Marginal Cost of Public Funds]] is from 1.5 to 2.”
 4) ***The administrative constraint***
 	1.  **Principal–agent problems**
 	Government organizations contain the hardest management problem. How do we obtain good behaviour from employees that wield coercive power, while lacking good measures of performance, and having no threat of organizational extinction?
@@ -120,7 +120,7 @@ In an ideal world, the state is a benevolent actor, which establishes the right 
 5) ***The voter rationality constraint***
 	1. **Incentives of voters**: the average person does not have the incentive to invest in learning about policy problems. 
 	2. **The limits of voting systems** 
-		The great economist #KennethArrow proved an ‘[[All Notes/Impossibility Theorem - Kenneth Arrow|Impossibility Theorem]]’, which shows that voting systems are not able to consistently aggregate the preferences of voters. 5 Specifically, Arrow defined three sensible criteria that a reasonable voting system ought to simultaneously satisfy, and proved that no voting system could achieve all the three at the same time. This emphasizes how voting and elections are less useful than meets the eye, in finding the right pathways for policy
+		The great economist #KennethArrow proved an ‘[[All Notes/Impossibility Theorem - Kenneth Arrow\|Impossibility Theorem]]’, which shows that voting systems are not able to consistently aggregate the preferences of voters. 5 Specifically, Arrow defined three sensible criteria that a reasonable voting system ought to simultaneously satisfy, and proved that no voting system could achieve all the three at the same time. This emphasizes how voting and elections are less useful than meets the eye, in finding the right pathways for policy
 	3. **Populism**
 		the collection of popular policy ideas. judging a policy initiative by its popularity among the masses is unwise.
 	4. **Representative democracy** - **An alternative that works**
@@ -286,7 +286,7 @@ Fighting poverty should be the clear objective of one or two anti-poverty progra
 
 # Private Solutions for Market Failiures
 
-#RonaldCoase brought fresh insight into this field, with what is called the ‘transaction costs perspective' [[All Notes/Coase Theorem|Coase Theorem]]
+#RonaldCoase brought fresh insight into this field, with what is called the ‘transaction costs perspective' [[All Notes/Coase Theorem\|Coase Theorem]]
 *As long as property rights are clear, both sides will be brought to the table to negotiate*
 
 Before Ronald Coase, economists viewed negative externalities as a story with a perpetrator and a victim.
@@ -352,7 +352,7 @@ Decentralization of government helps produce local answers to local problems.
 
 3. The third involves fiscal transfers through which the per capita resources available to the state government in poor states are higher than the per capita taxation that is done in those states
 
-The [[All Notes/subsidiarity principle|subsidiarity principle]] asserts that a function should be placed at the lowest level of government where it can possibly be performed
+The [[All Notes/subsidiarity principle\|subsidiarity principle]] asserts that a function should be placed at the lowest level of government where it can possibly be performed
 
 State-level politicians, who preach the cause of greater autonomy from the Union government, need to consistently carry this through and devolve full powers to the city governments within their states.
 
@@ -431,7 +431,7 @@ understand local conditions, and engage in first-principles problem solving.
 
 process of envisioning that is deeply grounded in the Indian context
 
-“Sound policy analysis in India requires authenticity. It calls for deep experiential local knowledge ([[metis|metis]]). The most valuable people in the Indian policy story are those who have authentic knowledge of India, and are able to imagine and envision how policy choices will play out in the Indian setting”
+“Sound policy analysis in India requires authenticity. It calls for deep experiential local knowledge ([[metis\|metis]]). The most valuable people in the Indian policy story are those who have authentic knowledge of India, and are able to imagine and envision how policy choices will play out in the Indian setting”
 
 We would be fully able to debate with policy thinkers elsewhere in the world, and present Indian solutions as optimal pathways under Indian conditions, while carefully warning other countries that they have to think for themselves.
 
