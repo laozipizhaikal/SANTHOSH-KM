@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/fundamentals-of-public-policy/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/all-notes/fundamentals-of-public-policy/"}
 ---
 
 
@@ -124,8 +124,8 @@ Article 13 - laws inconsistent with Fundamental Rights
 ## Interest
 Policymakers have self interest 
 Public interest and self interest may or may not allign
-[[Public Choice Theory|Public Choice Theory]]
-## [[All Notes/Bias|Bias]]
+[[Public Choice Theory\|Public Choice Theory]]
+## [[All Notes/Bias\|Bias]]
 ## Evidence
 - Evidence takes time
 	# Policy - System & Institutions = People
@@ -241,11 +241,11 @@ at the heart of the state, there is violence. The state acquires a monopoly upon
 
 *"The important thing for government is not to do things which individuals are doing already, and to do them a little better or a little worse; but to do those things which at present are not done at all.* #JohnMaynardKeynes" 
 
-"Where the free market fails to deliver efficient economic outcomes, this is termed **[[All Notes/market failure|market failure]]**'. Market failures come in four kinds:
-- [[All Notes/Externalities|Externalities]],
-- [[All Notes/Asymmetric information|Asymmetric information]],
-- [[All Notes/Market power|Market power]] and
-- [[All Notes/Public goods|Public goods]]
+"Where the free market fails to deliver efficient economic outcomes, this is termed **[[All Notes/market failure\|market failure]]**'. Market failures come in four kinds:
+- [[All Notes/Externalities\|Externalities]],
+- [[All Notes/Asymmetric information\|Asymmetric information]],
+- [[All Notes/Market power\|Market power]] and
+- [[All Notes/Public goods\|Public goods]]
 
 
 "Externalities are the situations where persons impact upon each other in ways that are *not intermediated through voluntary agreements* between these persons, where people impact upon each other in *ways that were not negotiated*." 
@@ -258,7 +258,7 @@ at the heart of the state, there is violence. The state acquires a monopoly upon
 
 “public goods such as clean air are underproduced by the free market.”
 
-“public goods are things that are ‘[[non-rival|non-rival]]’ and ‘[[non-excludable|non-excludable]]’.”
+“public goods are things that are ‘[[non-rival\|non-rival]]’ and ‘[[non-excludable\|non-excludable]]’.”
 
  Excludability is essential for firms to obtain a revenue stream”
 
@@ -270,7 +270,7 @@ All activities of the state are grounded in coercion: either
 - directly (The state can demand certain behaviour, and threaten violence against private persons who refuse to comply.) or 
 - indirectly (The state can demand tax payments from the populace, backed by threats of violence against people who do not comply).”
 
-Private persons overproduce things that impose negative [[All Notes/Externalities|Externalities]] as pollution and underproduce things that impose positive externalities; 
+Private persons overproduce things that impose negative [[All Notes/Externalities\|Externalities]] as pollution and underproduce things that impose positive externalities; 
 	modifications to tax rates can help improve the outcome. 
 
 The state can choose to spend tax revenues in two ways. 
@@ -399,4 +399,4 @@ Creative destruction is not alien to India: for small firms, it is the everyday 
 
 
 
-- [[All Notes/In Service of the Republic|In Service of the Republic]]
+- [[All Notes/In Service of the Republic\|In Service of the Republic]]
