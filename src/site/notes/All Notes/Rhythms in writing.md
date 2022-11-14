@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/rhythms-in-writing/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/all-notes/rhythms-in-writing/"}
 ---
 
 Sound of words 
