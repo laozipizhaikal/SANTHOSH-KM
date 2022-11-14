@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/the-sound-of-words/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/all-notes/the-sound-of-words/"}
 ---
 
 Subconsciously we are reading aloud in our head 
@@ -32,6 +32,6 @@ iamb, metrical foot consisting of one short syllable (as in classical verse) or 
 
  Putting these two terms together, iambic pentameter is a line of writing that consists of ten syllables in a specific pattern of an unstressed syllable followed by a stressed syllable, or a short syllable followed by a long syllable.
 - naturally suited to English 
- [[All Notes/Rhythms in writing|Rhythms]] - poetic meters
- Sound Symbolism - [[Phonesthesia|Phonesthesia]]
+ [[All Notes/Rhythms in writing\|Rhythms]] - poetic meters
+ Sound Symbolism - [[Phonesthesia\|Phonesthesia]]
  
