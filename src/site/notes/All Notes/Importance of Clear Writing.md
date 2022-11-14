@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/importance-of-clear-writing/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/all-notes/importance-of-clear-writing/"}
 ---
 
 > Good prose is like a window pane - #GeorgeOrwel 
