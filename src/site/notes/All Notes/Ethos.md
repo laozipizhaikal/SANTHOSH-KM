@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/ethos/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/all-notes/ethos/"}
 ---
 
 Ethos appeals to the writer’s character. Ethos can also be thought of as the role of the writer in the argument, and how credible his/her argument is.
