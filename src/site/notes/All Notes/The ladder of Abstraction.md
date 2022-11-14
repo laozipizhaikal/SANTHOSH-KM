@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/the-ladder-of-abstraction/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/all-notes/the-ladder-of-abstraction/"}
 ---
 
 From Ganesh
