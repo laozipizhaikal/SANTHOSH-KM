@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/impossibility-theorem-kenneth-arrow/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/all-notes/impossibility-theorem-kenneth-arrow/"}
 ---
 
 
