@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/coase-theorem/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/all-notes/coase-theorem/"}
 ---
 
 
