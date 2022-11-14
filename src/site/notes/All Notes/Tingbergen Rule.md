@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/tingbergen-rule/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/all-notes/tingbergen-rule/"}
 ---
 
 
