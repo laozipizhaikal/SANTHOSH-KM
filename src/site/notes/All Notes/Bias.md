@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/bias/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/all-notes/bias/"}
 ---
 
 
@@ -10,4 +10,3 @@
 	Attentional Narrowing 
 	Figure ground effect
 	Self Serving Bias 
-	
