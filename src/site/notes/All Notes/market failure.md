@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/market-failure/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/all-notes/market-failure/"}
 ---
 
 
-"Where the free market fails to deliver efficient economic outcomes, this is termed **[[All Notes/market failure|market failure]]**'. Market failures come in four kinds:
-- [[All Notes/Externalities|Externalities]],
-- [[All Notes/Asymmetric information|Asymmetric information]],
-- [[All Notes/Market power|Market power]] and
-- [[All Notes/Public goods|Public goods]]
+"Where the free market fails to deliver efficient economic outcomes, this is termed **[[All Notes/market failure\|market failure]]**'. Market failures come in four kinds:
+- [[All Notes/Externalities\|Externalities]],
+- [[All Notes/Asymmetric information\|Asymmetric information]],
+- [[All Notes/Market power\|Market power]] and
+- [[All Notes/Public goods\|Public goods]]
 
 The essence of market failure is the channels of influence between two persons which are not governed by negotiations and choice: 
 - **Market power**: One party in the negotiation has little power and experiences a loss of choice.
