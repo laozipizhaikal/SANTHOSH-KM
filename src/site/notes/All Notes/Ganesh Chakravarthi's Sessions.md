@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/all-notes/ganesh-chakravarthi-s-sessions/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/all-notes/ganesh-chakravarthi-s-sessions/"}
 ---
 
 ###### Perspective
@@ -71,7 +71,7 @@ Representative
 Axiomatic
 
 ###### Building Blocks of a good persuasive argument
-[[All Notes/The Rhetorical Triangle - Ethos, Pathos and Logos|The Rhetorical Triangle - Ethos, Pathos and Logos]] 
+[[All Notes/The Rhetorical Triangle - Ethos, Pathos and Logos\|The Rhetorical Triangle - Ethos, Pathos and Logos]] 
  
 ##### Counterview
 Echoes popular sentiment
@@ -87,14 +87,14 @@ Start to End
 Specific to general / general to specific
 
 #### On writing 
-###### [[All Notes/The ladder of Abstraction|The ladder of Abstraction]]
+###### [[All Notes/The ladder of Abstraction\|The ladder of Abstraction]]
 ###### Reverse Bollywood Format
 - Leading with the most important information
 - Getting to the vital information as quickly as possible 
  
 First sentence of any paragraph, set the context for the rest of the paragraph.. **topic sentence**. 
 
-###### [[All Notes/The Sound of Words|The Sound of Words]]
+###### [[All Notes/The Sound of Words\|The Sound of Words]]
  
 **Best Practices**
  - Keep your narrative focused - do not try to be everything 
