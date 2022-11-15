@@ -437,7 +437,7 @@ understand local conditions, and engage in first-principles problem solving.
 
 process of envisioning that is deeply grounded in the Indian context
 
-“Sound policy analysis in India requires authenticity. It calls for deep experiential local knowledge ([[All Notes/metis\|metis]]). The most valuable people in the Indian policy story are those who have authentic knowledge of India, and are able to imagine and envision how policy choices will play out in the Indian setting”
+“Sound policy analysis in India requires authenticity. It calls for deep experiential local knowledge ([[metis\|metis]]). The most valuable people in the Indian policy story are those who have authentic knowledge of India, and are able to imagine and envision how policy choices will play out in the Indian setting”
 
 We would be fully able to debate with policy thinkers elsewhere in the world, and present Indian solutions as optimal pathways under Indian conditions, while carefully warning other countries that they have to think for themselves.
 
