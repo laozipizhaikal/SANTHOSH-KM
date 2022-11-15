@@ -3,4 +3,4 @@
 ---
 
 
-*to successfully achieve 𝑛 independent policy targets at least the same number of independent policy instruments are required.*
+*to successfully achieve 𝑛 independent policy targets at least the same number of independent policy instruments are required.* - [[All Notes/Jan Tinbergen\|Jan Tinbergen]]
