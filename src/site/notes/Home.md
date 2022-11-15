@@ -19,3 +19,6 @@ Welcome to my [Digital Garden.](https://web.archive.org/web/20221112021127/https
 | Course  | <ul><li>[[Sources/Amit Verma's Sessions.md\\|Amit Verma's Sessions]]</li><li>[[Sources/Fundamentals of Public Policy.md\\|Fundamentals of Public Policy]]</li><li>[[Sources/Importance of Clear Writing.md\\|Importance of Clear Writing]]</li><li>[[Sources/Ganesh Chakravarthi's Sessions.md\\|Ganesh Chakravarthi's Sessions]]</li></ul>                                                                                        |
 | Webinar | <ul><li>[[Sources/Engaging with Policymakers.md\\|Engaging with Policymakers]]</li><li>[[Sources/How can advocacy bring about policy change.md\\|How can advocacy bring about policy change]]</li><li>[[Sources/How Journalism can effect change.md\\|How Journalism can effect change]]</li><li>[[Sources/India Semiconductor.md\\|India Semiconductor]]</li><li>[[Sources/Lessons from COVID.md\\|Lessons from COVID]]</li></ul> |
 
+
+> [!tip] Credit
+>  The knowledge management system is built on [Obsidian](https://obsidian.md/) and the website is hosted on Netlify via Github thanks to the awesome plugin [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) developed by [Ole Eskild Steensen](https://ko-fi.com/oleeskild)
