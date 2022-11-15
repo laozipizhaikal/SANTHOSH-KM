@@ -18,7 +18,7 @@ Asymmetric information can be used as a source of power in determining the outco
 # Reference
 “[[../Library/The Market for Lemons_Akerlof_1970.pdf|The Market for Lemons: Quality Uncertainty and the Market Mechanism]]"[^1] is a 1970 paper by the economist [[All Notes/George Akerlof\|George Akerlof]] which examines how the quality of goods traded in a market can degrade in the presence of information asymmetry between buyers and sellers, leaving only "lemons" behind.
 
-Akerlof, [[Michael Spence\|Michael Spence]] and [[Joseph Stiglitz\|Joseph Stiglitz]] jointly received the [[Nobel Memorial Prize in Economic Sciences\|Nobel Memorial Prize in Economic Sciences]] in 2001 for their research related to asymmetric information.
+Akerlof, [[All Notes/Michael Spence\|Michael Spence]] and [[All Notes/Joseph Stiglitz\|Joseph Stiglitz]] jointly received the [[All Notes/Nobel Memorial Prize in Economic Sciences\|Nobel Memorial Prize in Economic Sciences]] in 2001 for their research related to asymmetric information.
 
 Games of Asymmetric Information arise when one or more agents in a strategic situation possess better information about a random event than the other agents.
 
