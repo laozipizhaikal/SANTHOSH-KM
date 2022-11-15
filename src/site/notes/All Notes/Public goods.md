@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/all-notes/public-goods/"}
 ---
 
+In economics, a public good (also referred to as a social good or collective good) is a good that is both [[All Notes/Non-Excludable\|Non-Excludable]] and [[All Notes/Non-Rivalrous\|Non-Rivalrous]].
 
-"public goods such as clean air are underproduced by the free market. I" ([Kelkar and Shah 2019:19](zotero://open-pdf/library/items/EW52ATBW?page=19))
+"public goods such as clean air are underproduced by the free market." ([Kelkar and Shah 2019:19](zotero://open-pdf/library/items/EW52ATBW?page=19))
 
 "public goods are things that are 'non-rival' and 'non-excludable'." ([Kelkar and Shah 2019:19](zotero://open-pdf/library/items/EW52ATBW?page=19))
 
