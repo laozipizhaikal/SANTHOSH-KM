@@ -5,3 +5,4 @@
 ##### Mentioned Files
 - [[All Notes/Tingbergen Rule\|Tingbergen Rule]]
 
+{ .block-language-dataview}
