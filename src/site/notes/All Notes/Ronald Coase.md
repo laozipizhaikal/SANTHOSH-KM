@@ -5,3 +5,5 @@
 
 ##### Mentioned Files
 - [[All Notes/Coase Theorem\|Coase Theorem]]
+
+{ .block-language-dataview}
