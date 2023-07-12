@@ -19,3 +19,5 @@ A cognitive bias is a systematic pattern of deviation from norm or rationalit
 - [[All Notes/Primacy Effect\|Primacy Effect]]
 - [[All Notes/Recency Effect\|Recency Effect]]
 - [[All Notes/Self Serving Bias\|Self Serving Bias]]
+
+{ .block-language-dataview}
