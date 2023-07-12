@@ -1,13 +1,69 @@
 ---
-{"dg-publish":true,"permalink":"/sources/in-service-of-the-republic/"}
+{"dg-publish":true,"permalink":"/sources/in-service-of-the-republic/","title":"In Service of the Republic"}
 ---
 
 
 ![cover](http://books.google.com/books/content?id=2Sm-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+1. [[Sources/In Service of the Republic#In Service of the Republic\|In Service of the Republic]]
+1. [[Sources/In Service of the Republic#What objectives of public policy are appropriate?"\|What objectives of public policy are appropriate?"]]
+	1. [[Sources/In Service of the Republic#What objectives of public policy are appropriate?"\|Traditional Thinking:]]
+	1. [[Sources/In Service of the Republic#What objectives of public policy are appropriate?"\|Proposed thinking]]
+1. [[Sources/In Service of the Republic#People respond to incentives\|People respond to incentives]]
+				1. [[Sources/In Service of the Republic#Deploy incentives with care - caution in setting up high-powered incentives”\|Deploy incentives with care - caution in setting up high-powered incentives”]]
+				1. [[Sources/In Service of the Republic#Caution in setting up incentives around statistical measures\|Caution in setting up incentives around statistical measures]]
+				1. [[Sources/In Service of the Republic#People’s responses to incentives can be wonky\|People’s responses to incentives can be wonky]]
+			1. [[Sources/In Service of the Republic#cost of acquiring and processing information\|cost of acquiring and processing information]]
+			1. [[Sources/In Service of the Republic#thinking across long time horizons\|thinking across long time horizons]]
+1. [[Sources/In Service of the Republic#Price System\|Price System]]
+	1. [[Sources/In Service of the Republic#Price System\|Four forces of stabilization —]]
+1. [[Sources/In Service of the Republic#More competition Always\|More competition Always]]
+	1. [[Sources/In Service of the Republic#More competition Always\|Creative destruction and the death of firms - needed]]
+					1. [[Sources/In Service of the Republic#People’s responses to incentives can be wonky\|Business cycle fluctuations and firm failure]]
+	1. [[Sources/In Service of the Republic#More competition Always\|The government as a source of market power]]
+1. [[Sources/In Service of the Republic#General Equilibrium Effects\|General Equilibrium Effects]]
+1. [[Sources/In Service of the Republic#Go to the root cause, use the smallest possible force\|Go to the root cause, use the smallest possible force]]
+1. [[Sources/In Service of the Republic#Redistribution is fraught with trouble\|Redistribution is fraught with trouble]]
+	1. [[Sources/In Service of the Republic#Redistribution is fraught with trouble\|Difficulties with paternalism]]
+	1. [[Sources/In Service of the Republic#Redistribution is fraught with trouble\|Poverty will not be solved by redistribution]]
+					1. [[Sources/In Service of the Republic#People’s responses to incentives can be wonky\|Loss of focus weakens accountability]]
+1. [[Sources/In Service of the Republic#Private Solutions for Market Failiures\|Private Solutions for Market Failiures]]
+1. [[Sources/In Service of the Republic#Calculations in Public Policy\|Calculations in Public Policy]]
+1. [[Sources/In Service of the Republic#Ask the right question\|Ask the right question]]
+					1. [[Sources/In Service of the Republic#People’s responses to incentives can be wonky\|Tax]]
+					1. [[Sources/In Service of the Republic#People’s responses to incentives can be wonky\|Deficit]]
+					1. [[Sources/In Service of the Republic#People’s responses to incentives can be wonky\|Formal process helps]]
+1. [[Sources/In Service of the Republic#Decentralisation\|Decentralisation]]
+				1. [[Sources/In Service of the Republic#thinking across long time horizons\|Where to be careful about decentralisation]]
+1. [[Sources/In Service of the Republic#Evolutionary Change for the society, revolutionary change for the government\|Evolutionary Change for the society, revolutionary change for the government]]
+1. [[Sources/In Service of the Republic#Cross the river by feeling the stones\|Cross the river by feeling the stones]]
+1. [[Sources/In Service of the Republic#be careful of isomorphic mimicry\|be careful of isomorphic mimicry]]
+1. [[Sources/In Service of the Republic#Free-riding on state capacity outside India\|Free-riding on state capacity outside India]]
+1. [[Sources/In Service of the Republic#Public policy work is a test match, not an IPL.\|Public policy work is a test match, not an IPL.]]
+	1. [[Sources/In Service of the Republic#Public policy work is a test match, not an IPL.\|Policymaking on the election clock”]]
+	1. [[Sources/In Service of the Republic#Public policy work is a test match, not an IPL.\|Playing the long game]]
+1. [[Sources/In Service of the Republic#What is hard and what is easy\|What is hard and what is easy]]
+	1. [[Sources/In Service of the Republic#What is hard and what is easy\|Four dimensions of complexity]]
+	1. [[Sources/In Service of the Republic#What is hard and what is easy\|Solutions that reduce complexity in some dimensions]]
+	1. [[Sources/In Service of the Republic#What is hard and what is easy\|Learn to walk before you run Once]]
+1. [[Sources/In Service of the Republic#Confident policymakers work in the open\|Confident policymakers work in the open]]
+		1. [[Sources/In Service of the Republic#Learn to walk before you run Once\|The under-supply of criticism]]
+1. [[Sources/In Service of the Republic#System thinking\|System thinking]]
+		1. [[Sources/In Service of the Republic#Learn to walk before you run Once\|This is what is required to scale back the administrative state.]]
+1. [[Sources/In Service of the Republic#The public policy process\|The public policy process]]
+		1. [[Sources/In Service of the Republic#Learn to walk before you run Once\|The policy pipeline]]
+1. [[Sources/In Service of the Republic#Do fewer things\|Do fewer things]]
+1. [[Sources/In Service of the Republic#Rolling up your sleeves to build state capacity”\|Rolling up your sleeves to build state capacity”]]
+	1. [[Sources/In Service of the Republic#Rolling up your sleeves to build state capacity”\|Clarity of purpose of the agent]]
+		1. [[Sources/In Service of the Republic#Clarity of purpose of the agent\|Establish a leadership]]
+				1. [[Sources/In Service of the Republic#thinking across long time horizons\|Containing discretion]]
+					1. [[Sources/In Service of the Republic#Containing discretion\|Government departments in India are overloaded with many tasks and it is hard to reform this.]]
+1. [[Sources/In Service of the Republic#Information\|Information]]
+1. [[Sources/In Service of the Republic#Knowledge\|Knowledge]]
 
 # In Service of the Republic
 > [!Abstract]
 > _As a $3-trillion economy, India is on her way to becoming an economic superpower. Between 1991 and 2011, the period of our best growth, there was also a substantial decline in the number of people below the poverty line. Since 2011, however, there has been a marked retreat in the high growth performance of the previous two decades. What happened to the promise? Where have we faltered? How do we change course? How do we overcome the ever-present dangers of the middle-income trap, and get rich before we grow old? And one question above all else: What do we need to do to make our tryst with destiny? As professional economists as well as former civil servants, Vijay Kelkar and Ajay Shah have spent most of their lives thinking about and working on these questions. The result: In Service of the Republic, a meticulously researched work that stands at the intersection of economics, political philosophy and public administration. This highly readable book lays out the art and the science of the policymaking that we need, from the high ideas to the gritty practicalities that go into building the Republic._
+
 # What objectives of public policy are appropriate?"
 
 Book is grounded on "appreciation of 'self-organizing systems', of the uncoordinated decisions of individuals left to themselves, that discover order by themselves" 
@@ -24,12 +80,14 @@ at the heart of the state, there is violence. The state acquires a monopoly upon
 
 *"The important thing for government is not to do things which individuals are doing already, and to do them a little better or a little worse; but to do those things which at present are not done at all.* #JohnMaynardKeynes" 
 
-"Where the free market fails to deliver efficient economic outcomes, this is termed **[[All Notes/Market Failure\|../../All Notes/Market Failure]]**'. Market failures come in four kinds:
+"Where the free market fails to deliver efficient economic outcomes, this is termed **[[All Notes/Market Failure\|Market Failure]]**'. Market failures come in four kinds:
 - [[All Notes/Externalities\|Externalities]],
-- [[All Notes/Asymmetric Information\|../../All Notes/Asymmetric Information]],
-- [[All Notes/Market Power\|../../All Notes/Market Power]] and
+- [[All Notes/Asymmetric Information\|Asymmetric Information]],
+- [[All Notes/Market Power\|Market Power]] and
 - [[All Notes/Public goods\|Public goods]]
 
+1. [[Sources/In Service of the Republic#Traditional Thinking:\|Traditional Thinking:]]
+1. [[Sources/In Service of the Republic#Proposed thinking\|Proposed thinking]]
 
 "Externalities are the situations where persons impact upon each other in ways that are *not intermediated through voluntary agreements* between these persons, where people impact upon each other in *ways that were not negotiated*." 
 
