@@ -5,3 +5,5 @@
 
 ##### Mentioned Files
 - [[All Notes/Impossibility Theorem - Kenneth Arrow\|Impossibility Theorem - Kenneth Arrow]]
+
+{ .block-language-dataview}
