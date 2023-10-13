@@ -5,50 +5,245 @@
 
 
 # 1. Developmental Disorder - failure to develop
- Chronic delay in developmental traits - quantitative differences 
-## 1.1 Inhibition
+ Chronic delay in developmental traits - quantitative differences  Failing to develop on schedule
+## 1.1. Inhibition
 not suppressing irrelevant behaviour 
 cognitive impulsiveness 
 symptom - restlessness - gross motor activity and cognitive restlessness - internal restlessness 
 affects emotions - **emotional impulsiveness** - not a mood disorder - 
-mood disorder - generating too much emotion 
+mood disorder - generating too much emotion
+
 ADHD - display emotions quickly -  failure to regulate normal emotions - self regulation issues - to self sooth to self calm - quickness to emote 
-modify the emotion to be more socially acceptable less damaging 
+modify the emotion to be more acceptable for the context -  socially acceptable less damaging 
 inability to manage frustration impatience and anger 
-## 1.2 inability to make close friendships 
-and relationships 
 
-# 2. Failing to develop on schedule
-##  2.1 Persistence
-nature of inattentiveness is unique - failure of **persistence**
-motor part of brain 
-behaviour motivation future
-	can you sustain action towards a goal adequately to achieve it  
+closely linked to oppositional defiant disorder (ODD1.1.2 inability to make close friendships 
+	Impact - 
+	inability to make and keep close sustained friendships with other children
 
+caused by emotional impulsiveness - quickness with which one emote  - inhibitory issues 
+
+## 1.2. Attention Deficit - Executive Deficits 
+ 3 interacting attentional problems - better to be taught of as executive deficits and not attention deficits 
+
+there are at least 6 or 7 kinds of attention and supporting networks in human brain. they are all not disrupted by this disorder. 
+
+We need to know which one… ADHD is not the only attention deficit 
+
+###  1.2.1. Failure to develop Persistence towards a goal
+
+Attention disorder in ADHD is well defined as failure to persistence
+
+It involves
+	behaviour
+	motivation and
+	the future
+
+It is not lack of Perception, Filtering, Processing etc.  
+these are other types of steps involved in attention that is not affected in ADHD. 
+
+nature of inattentiveness in ADHD is unique - failure of **persistence**
+
+problem with motor part of brain 
+
+#### 1.2.1.1. motivation 
+can you sustain action towards a goal adequately to attain it  
+
+#### 1.2.1.2. failure to direct behaviour forward in time  
 	failure to direct behaviour foreward in time 
 	can not presist towards these delayed end points in life
 
-## 2.2 Resist distraction 
+###  1.2.2 Resist distraction 
+Not a perceptual issue - a motor issue. 
+
+A person with ADHD have no problem perceiving a distractors compared to others but *they respond to distractors more than others* - inhibitory failure   
+
+compelled to react 
+
 distraction provoke a response and the response can not be inhibited 
-ability to reengage - *working memory disorder* 
- executive deficits 
-**developmental disorder of self regulation**
- inhibit your behavour and direct your action towards
- thinking - self directed activity 
+
+###  1.2.1. ability to reengage / working memory 
+person with ADHD is far less likely to reengage the incomplete goal  
+
+This is not of attention, this is a  *working memory disorder*. 
+there is more than inattention
+
+Working memory is one of the 5 executive functions
+
+Working memory - remember what we were doing.. forget what the goal was.. working memory helps in reengage with the goal
+
+ADHD forgets the goal and anything else compelling will capture their behavious  
+
+hence the symptom - **skips from one incompleted activity to another**  
+# 2. Self Regulation 
+ADHD must be looked at as **Self Regulatory Developmental Disorder** - this is a serious issue
+
+A lot of profound human traits are not developing  
+
+What is self regulation?
+  Ability to 
+  consciously and wilfully
+  choose to inhibit your behaviour and then 
+  engage in series of **self directed** actions 
+
+actions to - long term self improvement .. long term welfare… delayed consequences 
+
+Self Control 
+is not learnt
+not from parenting 
+it is neurogenetic 
+
+Our capacity to regulate ourself is a neurobiological trait and not socially learnt
+
+not due to lack of training.. it had to do with brain development. 
+
+training can enhance / shape them but these do not originate in training 
+
+inability in self directed activities follows from the impairment in following 5 executive functions 
+## 2.1. inhibition 
+Can you stop / wait / pause btw event and what you plan to do about it - response | stimulus response - dont you think 
+## 2.2. non verbal working memory - visual imagery
+Mental imaginary - recall past - visual imaginary system - can not visualise relevant past - lack hindsight - no foresight - not thinking ahead 
+## 2.3. verbal working memory - self speech
+Can not talk to yourself - voice in head - help control oneself - at age 5 child start talking with oneself out loud and over time the speech is internalised and made private and mental - tells one what to do - they can not follow instructions, can not follow rules cannot internalise the rules
+## 2.4. Emotional control 
+Ability to manage emotions - to be more socially acceptable, consistent with goals and not conflicting with  welfare - ADHD child easily frustrated, quick to anger, more emotional more excitable - minds heart
+   
+   Emotions are the source of Motivations.. if you can not manage your emotions you can not manage your motivations - self motivation is the fuel tank for future directed behavious
+   
+   So they can not rely on self motivation for their actions - can not motivate themselves
+   
+   Always dependent on the environment around them and its immediate consequences for how hard and how long you can work
+   
+   if there is not consequence you can not work - can not persist 
+   
+   video games provides 100%  external continuous consequences 
+
+  Consequences are delayed in real life - failure
+
+  this is not a choice, not wilful, this is an internal neurogenerative executive failure
+
+## 2.5 Planning and problem solving  
+ minds play ground 
+ how many solutions can you think of to circumvent a problem
+ stimulate multiple possible future options 
+
+How quickly in your mind can you think  of multiple ways to overcome the problem you just encountered 
+
+These 5 things are impacted 
+
+ADHD leads you to act on impulse, not resist distraction, less able to think back etc.. live in the moment
+
+**rob you of sense of time**
+
+**disorder of time management** 
+
+# 3. Types of ADHD
+
+DSM is not accurate.. 
+2 types 
+1. with conduct disorder
+2. without conduct disorder
+
+differentiation from SCT - Sluggish cognitive tempo (SCT)
+
+
+ADHD is productivity disorder 
 
 
 
 
+# 4. Causation
+
+all biological  
+
+social factors
+- resources available to treat
+- impairments are part of situation
+- comorbidity 
+
+One third acquired - not generic
+mainly during pregnancy 
+disrupt development of frontal lobe
+5% due to causes that affect ongoing brain development - trauma infection 
+
+lead poisoning 
+steps bacteria 
+lukemia 
+
+frontal part of the brain is small 
+some brain regions are smaller 
+
+5 regions impact ADHD
+right frontal lobe
+basel ganglia
+cerebellum
+anterier cingulare
+corpus callosum 
+
+these regions are 3% to 10% smaller in children with ADHD 
+
+⅓rd males might have acquired the disorder 
+
+Profoundly genetic
 
 
+# 5. Important Insights
+
+## 5.1 Time blindness
+
+live in the now 
+
+the now is more compelling than the information you are holding in your mind
+
+frontal lobe - organise behavious across time in anticipation of future 
+
+nearsightedness to future 
+only deal with things near in time 
+only deal with last minute 
+
+## 5.2 build pyramids of behaviour
+
+can not hierarchialy organise behavious 
+can not create bigger goal to biggeer goal 
+inability to organise behaviour across time into a hierarchy
+ability to look ahead - intention 
+IDD.. intention deficit disorder 
+inability to organise around the intentions not insincierity / not intent 
+
+brain
+back - acquire knowledge
+front - performance .. use knowledge
+ADHD - performance disorder 
+
+have all skills but can not use them 
+
+what to do?
+- stop teaching skills 
+- change point of performance 
+- increase accountability - increase the frequency, immediacy salience & timing of the consequence 
+- all natural consequence are delayed 
+
+all behaviour modifications are equal to ramps in the building
+
+behaviour modifications are not for teaching / not instructional they are motivational 
+
+they will need more frequent consequences around them 
+
+care givers are the most important part of the treatment 
+
+chronic disorder 
+goal - to manage it; create reduction in symptom.. reduce secondary harm 
 
 
+Consequences
+- can not stop & hold things in mind - need external physical forms of reminder - substitute for working memory - externalise - outside the brain in front of you - lists posters - journal immediate - that is your working memory 
+- timer - something physical to indicate passage of time -
+- day planner - week at a glance - timer and calander dependent / addict - you can not see the future coming at you- so if anything you have agreed to do - you have to break it into baby steps and do it daily - break the future in pieces and do it today 
+- Keep the Events - Responses - Outcomes close together 
+- little ERO bridges over time 
+- All motivation is external 
+- make problem solving manual - outside - 
 
-
-
-
-1A: Introduction, Chronic Developmental Disability  Know the disorder o Developmental disability is an age inappropriate behavior, delay in the rate of a normal development o ADHD is different than normal in a quantitative way, not a qualitative way. o A chronic lag in the traits o The degree of the delay is the distinction of ADHD. o It is not a different state of humanity, but a better or worse at a specific trait.  Two types psychological traits not developing 1B: Inhibition, Impulsivity & Emotions  What is delayed? o Inhibition: First sign is typically hyperactivity  Motor actions: verbal behavior and intrusive & disruptive motor/verbal  Cognitive decision on done without thinking first.  Restlessness  Declines with age (typically be adolescence)  Busyness of one’s mind o Emotional Impulsiveness  1798: First initial medical reference  Until 1976, emotion was apart of ADHD.  Quick display of emotions  Not a mood disorder (generation of too much emotion)  Self-regulation disorder, not increased generation of emotion  You can be impulsive in behavior without impulsiveness in the emotions  Emotion needs to go back into the study of ADHD  ADHD causes ODD o ODD Symptoms  Mood  Anger  Temper  Hostility  Annoyed  50-70% of ADHD children are rejected by close friends by the second grade. o Inability to create and make close friendships.  Emotion is the biggest conflict in marital relationships with a spouse that has ADHD 2ALL: Persistence, Sustaining action to a Goal  At least 6 or 7 different kinds of support networks in the brain  Nature of the inattentiveness helps bring clarity to a disorder
-
-Persistence towards a goal  ADHD is not a problem of processing, but the motor part (front lobe) part of a brain  Working Memory Disorder  EDFD  We do loose memory, we loose working memory  ADHD: an ability to reach a goal because of the working memory is distracted  Executive Deficits  Developmental Disorder of Self-Regulation, not attention (SRDD, not ADHD)  Self-Regulation is for long term self improvement, not short term self improvement  ADHD children had delayed responses to consequences. 3A The Five Executive Functions  Self-Control is not learned, but it a neuro-genetic gift and who they are The 5 problems that are difficult with a child with ADHD 1. Can you stop/wait “Everything comes to those who wait.” In ADHD, there is not pause. Event then response, event then response. 2. Visualization: Mental/Visual past/ Hindsight & Foresight: Looking back to anticipate 3. Cannot talk to themselves a. The voice in our head to help control ourselves b. No minds voice 4. Mind’s Heart: Ability to manage their emotions so they are more social acceptable. a. More consistent with goals b. Our emotions are our motivations c. If we cannot manage our emotions, then we cannot manage our motivations. d. ADHD will always be dependent on their environment around them e. ADHD are unable to self motivate 5. Mind’s Playground a. Will not appear until late childhood b. Plan & Problem Solve  Each of these are located in the frontal lobe. 6ALL: How to manage & accommodate ADHD  5 things to do 1. Child cannot stop & hold things in mind: So do not make them o They need external forms of information o Substitution for working memory: sticky notes, cubes, graphs, lists, etc. 2. No internal clock
-
-A timer o Breaking the future in the pieces, do not try to point to the further o ERO:  Events  Reponses  Outcomes 3. All motivation is external a. Something in for your if you are going to persist b. Thinking win/win 4. Mental Play a. Ability to manipulates the contents in your mind. b. Source of planning & problem solving difficultly c. Making mental information/ideas physical 5. ADHD rarely occurs alone a. Other disorders will more than likely come along your child’s lif
+Results of untreated ADHD 
+undereducation 
